@@ -57,7 +57,7 @@ $result = $blobClient->listBlobs($containerName, $listBlobsOptions);
         border-right:solid 1px black; border-bottom:solid 1px black; font-size:8pt; padding:5px; font-family:arial; border-left:solid 1px black; border-top: solid 1px black; text-align: right;
     }
 </style>
-<title>Upload Photo and Computer Vision Analyze</title>
+<title>Submission2Makarim</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 <script type="text/javascript" src="analisis.js"></script>
